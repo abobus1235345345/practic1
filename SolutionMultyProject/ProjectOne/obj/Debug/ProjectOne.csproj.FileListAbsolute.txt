@@ -1,0 +1,15 @@
+D:\ИС-21\SolutionMultyProject\ProjectOne\bin\Debug\ProjectOne.exe.config
+D:\ИС-21\SolutionMultyProject\ProjectOne\bin\Debug\ProjectOne.exe
+D:\ИС-21\SolutionMultyProject\ProjectOne\bin\Debug\ProjectOne.pdb
+D:\ИС-21\SolutionMultyProject\ProjectOne\obj\Debug\ProjectOne.csproj.AssemblyReference.cache
+D:\ИС-21\SolutionMultyProject\ProjectOne\obj\Debug\ProjectOne.csproj.SuggestedBindingRedirects.cache
+D:\ИС-21\SolutionMultyProject\ProjectOne\obj\Debug\ProjectOne.csproj.CoreCompileInputs.cache
+D:\ИС-21\SolutionMultyProject\ProjectOne\obj\Debug\ProjectOne.exe
+D:\ИС-21\SolutionMultyProject\ProjectOne\obj\Debug\ProjectOne.pdb
+C:\Users\Пользователь\Desktop\SolutionMultyProject\ProjectOne\bin\Debug\ProjectOne.exe.config
+C:\Users\Пользователь\Desktop\SolutionMultyProject\ProjectOne\bin\Debug\ProjectOne.exe
+C:\Users\Пользователь\Desktop\SolutionMultyProject\ProjectOne\bin\Debug\ProjectOne.pdb
+C:\Users\Пользователь\Desktop\SolutionMultyProject\ProjectOne\obj\Debug\ProjectOne.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\SolutionMultyProject\ProjectOne\obj\Debug\ProjectOne.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\SolutionMultyProject\ProjectOne\obj\Debug\ProjectOne.exe
+C:\Users\Пользователь\Desktop\SolutionMultyProject\ProjectOne\obj\Debug\ProjectOne.pdb
